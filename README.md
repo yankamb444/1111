@@ -25,4 +25,5 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 # Technologies Used/Needed 
+Inquirer: https://www.npmjs.com/package/inquirer/v/8.2.4
 Jest: https://www.npmjs.com/package/jest

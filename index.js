@@ -55,7 +55,7 @@ async function main() {
             });
 
         async function GenerateCircle(circle) {
-                        let circle = svg
+                        let circleRender = svg
                             .circle([{
                                 r: 40,
                                 cx: 84,
@@ -90,4 +90,5 @@ async function main() {
                 //     return this.radius;
 
 
-                // fs.appendFile('Logo.SVG', function (generateSvg) 
+                // fs.appendFile('Logo.SVG', function (generateSvg)
+        
